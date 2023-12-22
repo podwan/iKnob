@@ -1,0 +1,23 @@
+"..\OBJ\STARTUP_CMS80F731x.obj",
+"..\OBJ\uart.obj",
+"..\OBJ\pwm.obj",
+"..\OBJ\CheckTouchKey_Set.obj",
+"..\OBJ\REL_Protocol.obj",
+"..\TOUCHLib\CheckTouchKey_80F73xx_PT_V1.02.LIB",
+"..\OBJ\delay.obj",
+"..\OBJ\time.obj",
+"..\OBJ\uart0.obj",
+"..\OBJ\isr.obj",
+"..\OBJ\main.obj",
+"..\OBJ\userMain.obj",
+"..\OBJ\userTimer.obj",
+"..\OBJ\display.obj",
+"..\OBJ\beeper.obj",
+"..\OBJ\app.obj",
+"..\OBJ\key.obj" 
+TO "..\OBJ\KX-HJ-Y02" 
+
+PRINT("..\OBJ\KX-HJ-Y02.map") DISABLEWARNING (48) 
+REMOVEUNUSED 
+CLASSES (XDATA (X:0x0-X:0x7FF), HDATA (X:0x0-X:0x7FF), CODE (C:0x0-C:0x7FFF), CONST (C:0x0-C:0x7FFF), 
+ECODE (C:0x0-C:0x7FFF), HCONST (C:0x0-C:0x7FFF)) 

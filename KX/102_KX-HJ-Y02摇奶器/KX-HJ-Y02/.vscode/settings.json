@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "usertimer.h": "c",
+        "usermain.h": "c",
+        "cms80f731xx.h": "c",
+        "checktouchkey_80f73xx.h": "c",
+        "key.h": "c"
+    }
+}
