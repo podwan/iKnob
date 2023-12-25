@@ -336,16 +336,16 @@ static void motorDrive()
     {
         if (_1s)
         {
-            if (++motorCnt >= 26)
+            if (++motorCnt >= 23)
             {
                 motorCnt = 0;
             }
         }
         if (motorCnt <= 10)
             motorState = ANTI_CLOCKWISE;
-        else if (motorCnt <= 13)
+        else if (motorCnt <= 11)
             motorState = STOP;
-        else if (motorCnt <= 23)
+        else if (motorCnt <= 21)
             motorState = CLOCKWISE;
         else
             motorState = STOP;
