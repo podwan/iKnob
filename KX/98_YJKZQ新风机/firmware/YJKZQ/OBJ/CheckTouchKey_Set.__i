@@ -1,0 +1,1 @@
+"..\TOUCHLib\CheckTouchKey_Set.c" LARGE OMF2 OPTIMIZE (8,SPEED) BROWSE MODDP2 INCDIR(..\CORE;..\FWLib\inc;..\SYSTEM;..\USER;..\TOUCHLib) DEBUG PRINT(..\OBJ\CheckTouchKey_Set.lst) TABS (2) OBJECT(..\OBJ\CheckTouchKey_Set.obj)

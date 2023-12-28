@@ -1,0 +1,1 @@
+"..\USER\userTimer.c" LARGE OMF2 OPTIMIZE (8,SPEED) BROWSE MODDP2 INCDIR(..\CORE;..\FWLib\inc;..\SYSTEM;..\USER;..\TOUCHLib) DEBUG PRINT(..\OBJ\userTimer.lst) TABS (2) OBJECT(..\OBJ\userTimer.obj)

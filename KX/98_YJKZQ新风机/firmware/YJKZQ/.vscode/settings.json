@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "display.h": "c",
+        "usermain.h": "c",
+        "tm1621c.h": "c",
+        "cms80f761xx.h": "c",
+        "stdio.h": "c",
+        "checktouchkey_80f761x.h": "c",
+        "usertimer.h": "c",
+        "checktouchkey_set.h": "c"
+    }
+}
