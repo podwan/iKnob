@@ -1,1 +1,0 @@
-"..\USER\display.c" LARGE OMF2 OPTIMIZE (8,SPEED) BROWSE MODDP2 INCDIR(..\CORE;..\FWLib\inc;..\SYSTEM;..\USER;..\TOUCHLib) DEBUG PRINT(..\OBJ\display.lst) TABS (2) OBJECT(..\OBJ\display.obj)

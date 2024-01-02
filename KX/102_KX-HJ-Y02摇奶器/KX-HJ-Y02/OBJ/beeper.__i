@@ -1,1 +1,0 @@
-"..\USER\beeper.c" OMF2 OPTIMIZE (8,SPEED) BROWSE MODDP2 INCDIR(..\CORE;..\FWLib\inc;..\SYSTEM;..\USER;..\TOUCHLib) DEBUG PRINT(..\OBJ\beeper.lst) TABS (2) OBJECT(..\OBJ\beeper.obj)
